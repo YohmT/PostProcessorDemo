@@ -1,0 +1,7 @@
+logging:
+  level:
+    root: warn
+
+user:
+  name: Yao
+  age: 3
